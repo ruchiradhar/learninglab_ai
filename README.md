@@ -4,7 +4,6 @@ In this repository, there are individual notebooks for learning the following to
 
 - DSA
 - Linear Algebra
-- Calculus
 - Machine Learning
-- Deep Learning (ANN-based)
-- Evaluation
+- Deep Learning 
+- Transformers
