@@ -1,23 +1,15 @@
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/OS-macOS-lightgrey?logo=apple" alt="macOS" />
+  <img src="https://img.shields.io/badge/License-Educational-green" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status" />
+</p>
 
-	<img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python">
-	<img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter">
-	<img src="https://img.shields.io/badge/OS-macOS-lightgrey?logo=apple" alt="macOS">
-	<img src="https://img.shields.io/badge/License-Educational-green" alt="License">
-	<img src="https://img.shields.io/badge/Status-Active-success" alt="Status">
+<h1 align="center">LearningLab AI</h1>
+<p align="center"><em>A hands-on pathway through AI fundamentals — Math, Python, ML, DL, Transformers, RL.</em></p>
 
-	<br/><br/>
-
-	<div style="background: linear-gradient(135deg, #0ea5e9 0%, #22c55e 50%, #a855f7 100%); color: white; padding: 24px; border-radius: 12px; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;">
-		<h1 style="margin: 0; font-size: 2.2rem;">LearningLab AI</h1>
-		<p style="margin: 8px 0 0; font-size: 1rem; opacity: 0.95;">A curated, hands-on pathway through AI fundamentals — math, Python, ML/DL, transformers, and RL — with runnable notebooks.</p>
-	</div>
-
-</div>
-
-<br/>
-
-Explore a curated collection of hands-on notebooks to learn core AI fundamentals: Python, data structures & algorithms, linear algebra, machine learning, deep learning, transformers, and reinforcement learning.
+Explore a curated collection of runnable notebooks to learn core AI fundamentals: Python, data structures & algorithms, linear algebra, machine learning, deep learning, transformers, and reinforcement learning.
 
 ---
 
@@ -62,8 +54,8 @@ jupyter notebook
 
 ### ModelBasics
 - `learning_ml.ipynb`: Classic ML (regression, classification, clustering, model evaluation).
-- `learning_dl.ipynb`: Deep learning (ANNs, MLPs, RNNs, LSTMs, VAEs, Transformers, interpretability).
-- `learning_transformers.ipynb`: Transformer architecture, attention, positional encodings, training tips.
+- `learning_dl.ipynb`: Deep learning (ANNs, MLPs, RNNs, LSTMs, VAEs).
+- `learning_transformers.ipynb`: Transformer architecture, attention, positional encodings, training tips, interpretability.
 
 ### Root
 - `learning_rl.ipynb`: Reinforcement learning foundations (MDP, policy/value, Q-learning, actor-critic).
@@ -122,9 +114,7 @@ jupyter lab clean
 
 ---
 
-<div align="center" style="opacity:0.8;">
-	Crafted with curiosity. 🚀
-</div>
+<p align="center">Crafted with curiosity. 🚀</p>
 
 ---
 
