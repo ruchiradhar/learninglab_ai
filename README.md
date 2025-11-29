@@ -130,11 +130,3 @@ jupyter lab clean
 Educational content and examples for personal learning and teaching.
 
 ---
-
-### Dark Theme Notes
-GitHub does not allow full custom page theming from a README (no global background override). This design uses:
-1. SVG banners with subtle gradients for dark/light modes.
-2. Badges forced to near-black (`000000` / `111111`) for consistency.
-3. Minimal inline HTML compatible with GitHub rendering.
-
-For a fully custom dark landing page, consider adding a `docs/` site with GitHub Pages + a static site generator (e.g. Docusaurus or MkDocs Material) and applying a dark theme globally.
