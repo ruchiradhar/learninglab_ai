@@ -1,13 +1,21 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/OS-macOS-lightgrey?logo=apple" alt="macOS" />
-  <img src="https://img.shields.io/badge/License-Educational-green" alt="License" />
-  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status" />
-</p>
+<div align="center">
 
-<h1 align="center">LearningLab AI</h1>
-<p align="center"><em>A hands-on pathway through AI fundamentals — Math, Python, ML, DL, Transformers, RL.</em></p>
+<!-- Dark mode banner -->
+<img src="images/banner_dark.svg#gh-dark-mode-only" alt="LearningLab AI Dark Banner" width="100%" />
+<!-- Light mode banner -->
+<img src="images/banner_light.svg#gh-light-mode-only" alt="LearningLab AI Light Banner" width="100%" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3.11-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Jupyter-NOTEBOOK-000000?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+<img src="https://img.shields.io/badge/Status-ACTIVE-111111?style=for-the-badge&logo=github" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Education-111111?style=for-the-badge&logo=bookstack&logoColor=white" alt="Educational" />
+
+</div>
+
+<br/>
 
 Explore a curated collection of runnable notebooks to learn core AI fundamentals: Python, data structures & algorithms, linear algebra, machine learning, deep learning, transformers, and reinforcement learning.
 
@@ -120,3 +128,13 @@ jupyter lab clean
 
 ## License
 Educational content and examples for personal learning and teaching.
+
+---
+
+### Dark Theme Notes
+GitHub does not allow full custom page theming from a README (no global background override). This design uses:
+1. SVG banners with subtle gradients for dark/light modes.
+2. Badges forced to near-black (`000000` / `111111`) for consistency.
+3. Minimal inline HTML compatible with GitHub rendering.
+
+For a fully custom dark landing page, consider adding a `docs/` site with GitHub Pages + a static site generator (e.g. Docusaurus or MkDocs Material) and applying a dark theme globally.
