@@ -56,13 +56,12 @@ jupyter notebook
 - `learning_linalg.ipynb`: Linear algebra essentials (vectors, matrices, eigen, SVD).
 - `learning_calculus.ipynb`: Calculus essentials (limits, derivatives, integrals, series, multivariable).
 
-### PythonBasics
-- `learning_python.ipynb`: Python foundations for AI (types, control flow, functions, OOP).
-- `learning_dsa.ipynb`: Data structures & algorithms (lists, stacks, queues, trees, graphs, complexity).
-
-### ModelBasics
+### MLBasics
 - `learning_ml.ipynb`: Classic ML (regression, classification, clustering, model evaluation).
 - `learning_dl.ipynb`: Deep learning (ANNs, MLPs, RNNs, LSTMs, VAEs).
+
+### LLMBasics
+- `learning_embeddings.ipynb`: On the tokenization and embeddings (mainly from the Hands on LLM Book) 
 - `learning_transformers.ipynb`: Transformer architecture, attention, positional encodings, training tips, interpretability.
 
 ### Root
@@ -116,13 +115,11 @@ jupyter lab clean
 ---
 
 ## Roadmap
-- Add differential equations primer.
-- Expand RL with policy gradients and modern algorithms.
-- Include lightweight datasets and utilities for experimentation.
+- TBD
 
 ---
 
-<p align="center">Crafted with curiosity. 🚀</p>
+<p align="center">Crafted for personal learning. 🚀</p>
 
 ---
 
